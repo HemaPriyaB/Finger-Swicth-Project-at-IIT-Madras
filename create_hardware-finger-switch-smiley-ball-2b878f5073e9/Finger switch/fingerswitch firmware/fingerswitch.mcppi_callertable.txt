@@ -1,0 +1,5 @@
+main
+	InitTimer0
+	Button
+		Delay_500us
+interrupt
